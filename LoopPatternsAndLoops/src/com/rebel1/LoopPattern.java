@@ -31,7 +31,7 @@ public class LoopPattern {
 		
 	public void loop()
 	{
-		for(int k=5;k>=1;k--)
+		for(int k=5;k>=1;k--) 
 		{
 			for(int l=k;l>=1;l--)
 			{
